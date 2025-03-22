@@ -27,4 +27,11 @@
 
 ### Output:
 
+![o1](/1.png)
+<br>
+
+![o2](/2.png)
+<br>
+
 ### Result:
+Thus, sentimental analysis for twitter data using Rapidminer is done successfully.
